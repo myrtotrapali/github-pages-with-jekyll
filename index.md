@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my WebPage
 
-I'm glad you are here. I plan to talk about ...
+_In this blog you can find my projects. Click on the tags that interest you the most to see relevant information or projects
